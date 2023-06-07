@@ -10,7 +10,7 @@
 - Схема подключения
 - 
 ## Схемы
-![SCHEME]()
+![SCHEME](https://github.com/pankkovv/homing-fan/blob/e52d3144d1203709fe779f24c4e8d312ca787595/shemes/scheme1.jpg)
 
 ## Как работает алгоритм:
 Сервопривод крутится от MIN_ANGLE до MAX_ANGLE с шагом 1 градус
