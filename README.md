@@ -8,7 +8,7 @@
 
 Приложение к проекту:
 - Схема подключения
-- 
+
 ## Схемы
 ![SCHEME](https://github.com/pankkovv/homing-fan/blob/e52d3144d1203709fe779f24c4e8d312ca787595/shemes/scheme1.jpg)
 
